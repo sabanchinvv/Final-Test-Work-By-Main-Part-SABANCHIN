@@ -1,0 +1,15 @@
+/Users/sabanchinvv/Desktop/Final-Test-Work-By-Main-Part/Final_Test_Work/bin/Debug/net6.0/Final_Test_Work
+/Users/sabanchinvv/Desktop/Final-Test-Work-By-Main-Part/Final_Test_Work/bin/Debug/net6.0/Final_Test_Work.deps.json
+/Users/sabanchinvv/Desktop/Final-Test-Work-By-Main-Part/Final_Test_Work/bin/Debug/net6.0/Final_Test_Work.runtimeconfig.json
+/Users/sabanchinvv/Desktop/Final-Test-Work-By-Main-Part/Final_Test_Work/bin/Debug/net6.0/Final_Test_Work.dll
+/Users/sabanchinvv/Desktop/Final-Test-Work-By-Main-Part/Final_Test_Work/bin/Debug/net6.0/Final_Test_Work.pdb
+/Users/sabanchinvv/Desktop/Final-Test-Work-By-Main-Part/Final_Test_Work/obj/Debug/net6.0/Final_Test_Work.csproj.AssemblyReference.cache
+/Users/sabanchinvv/Desktop/Final-Test-Work-By-Main-Part/Final_Test_Work/obj/Debug/net6.0/Final_Test_Work.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sabanchinvv/Desktop/Final-Test-Work-By-Main-Part/Final_Test_Work/obj/Debug/net6.0/Final_Test_Work.AssemblyInfoInputs.cache
+/Users/sabanchinvv/Desktop/Final-Test-Work-By-Main-Part/Final_Test_Work/obj/Debug/net6.0/Final_Test_Work.AssemblyInfo.cs
+/Users/sabanchinvv/Desktop/Final-Test-Work-By-Main-Part/Final_Test_Work/obj/Debug/net6.0/Final_Test_Work.csproj.CoreCompileInputs.cache
+/Users/sabanchinvv/Desktop/Final-Test-Work-By-Main-Part/Final_Test_Work/obj/Debug/net6.0/Final_Test_Work.dll
+/Users/sabanchinvv/Desktop/Final-Test-Work-By-Main-Part/Final_Test_Work/obj/Debug/net6.0/refint/Final_Test_Work.dll
+/Users/sabanchinvv/Desktop/Final-Test-Work-By-Main-Part/Final_Test_Work/obj/Debug/net6.0/Final_Test_Work.pdb
+/Users/sabanchinvv/Desktop/Final-Test-Work-By-Main-Part/Final_Test_Work/obj/Debug/net6.0/Final_Test_Work.genruntimeconfig.cache
+/Users/sabanchinvv/Desktop/Final-Test-Work-By-Main-Part/Final_Test_Work/obj/Debug/net6.0/ref/Final_Test_Work.dll
