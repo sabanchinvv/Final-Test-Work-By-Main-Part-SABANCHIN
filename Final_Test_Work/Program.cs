@@ -10,7 +10,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        string[] strings = { "abc", "defg", "hi", "jklmn" };
+        string[] strings = { "abc", "3719", "hi", "jklmn", "wtr", "-20" };
         string[] filteredStrings = new string[strings.Length];
         int index = 0;
 
